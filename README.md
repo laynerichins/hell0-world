@@ -1,1 +1,2 @@
-# hell0-world
+# hello-world
+Not sure what I am doing here but hoping to learn some coding 
